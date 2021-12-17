@@ -6,8 +6,6 @@ import Data.List
 import Data.List.Split
 import Data.Maybe
 import Safe
-import System.IO
-import System.IO.Unsafe
 
 type Board = [[Int]]
 
